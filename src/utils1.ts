@@ -5,5 +5,5 @@ export function log() {
 }
 
 export function log3() {
-  console.log('=== log2 ===');
+  console.log('=== log3 ===');
 }
